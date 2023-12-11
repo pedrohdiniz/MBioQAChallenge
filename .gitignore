@@ -1,0 +1,13 @@
+.idea
+E2E/.idea
+E2E/downloads
+E2E/node_modules
+E2E/cypress/videos
+E2E/cypress/screenshots
+E2E/reports/cucumber-htmlreport.html/features/**
+E2E/reports/cucumber-htmlreport.html/assets/**
+E2E/reports/cucumber-htmlreport.html/index.html
+E2E/cypress/cucumber-json/**
+E2E/cypress/e2e/cucumber.cy.js
+E2E/cypress.env.json
+E2E/cypress/fixtures/example.json
